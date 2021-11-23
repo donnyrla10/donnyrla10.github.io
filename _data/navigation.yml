@@ -6,7 +6,7 @@ main:
        url: /index.html
      - title: "CATEGORY"
        url: /categories/
-     - title: "TAG"
-       url: /tags/
+    # - title: "TAG"
+    #   url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/
