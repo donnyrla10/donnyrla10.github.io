@@ -3,7 +3,7 @@ title: "[프로그래머스] 2016년 (C++)"
 categories:
     - CodingTest
 tags:
-    -[Programmers, Algorithm, C++, CodingTest]
+    - [Programmers, Algorithm, C++, CodingTest]
 toc: true
 toc_sticky: true
 date: 2021-11-24
