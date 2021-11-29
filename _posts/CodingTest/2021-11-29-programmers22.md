@@ -29,7 +29,8 @@ date: 2021-11-29
 최대공약수: 두 자연수에 대하여 공통된 약수 중 가장 큰 자연수<br>
 최소공배수: 두 자연수에 대하여 공통된 배수 중 가장 작은 자연수
 
-![최대공약수,최소공배수](_posts/images/gcd.jpg)
+![gcd](https://user-images.githubusercontent.com/63290629/143856110-461408ec-e7d5-4020-a4d3-7d4cd0af977a.jpg)
+
 
 ---
 
