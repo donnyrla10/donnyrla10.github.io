@@ -6,7 +6,7 @@ tags:
 - [Programmers, Algorithm, C++, CodingTest]
 toc: true
 toc_sticky: true
-date: 2021-11-23
+d:qate: 2021-11-23
 ---
 
 ## 🔥 문제
